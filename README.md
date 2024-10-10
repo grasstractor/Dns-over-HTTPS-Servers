@@ -1,3 +1,2 @@
 # Dns-over-HTTPS-Servers
-Public scanning of discovered DOH servers
-Data is being organized and uploaded gradually.
+Here is a partial data sample, which includes the IP addresses and domain names of DOH servers collected in June and July 2024. If you need more detailed data or data from other periods (March 2024 to the present), feel free to leave me a message or send me an email at 22B903090@stu.hit.edu.cn. Similarly, if you need the trained DOH filtering model, you can also leave me a message. Only the core code for model training is uploaded here.
